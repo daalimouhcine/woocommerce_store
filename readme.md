@@ -86,7 +86,7 @@
 <p>WordPress is free software, and is released under the terms of the <abbr>GPL</abbr> (GNU General Public License) version 2 or (at your option) any later version. See <a href="license.txt">license.txt</a>.</p>
 
 
- >Plugins
+ <h2>Plugins</h2>
  <br>
     - SEO plugin: Yoast SEO is a search engine optimization (SEO) plug-in for WordPress. The plugin has five million active installations and has been downloaded more than 350 million times.
     <br>
