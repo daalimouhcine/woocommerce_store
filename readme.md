@@ -30,7 +30,7 @@
     - GDPR plugin: The CookieYes GDPR Cookie Consent & Compliance Notice plugin will assist you in making your website GDPR (RGPD, DSVGO) compliant.
     <br>
     - Multilanguage plugin: Translate WordPress with GTranslate plugin uses Google Translate automatic translation service to translate wordpress site with Google power and make it multilingual.
-
+<br>
 
 
 <h2>Updating</h2>
