@@ -86,7 +86,7 @@
 <p>WordPress is free software, and is released under the terms of the <abbr>GPL</abbr> (GNU General Public License) version 2 or (at your option) any later version. See <a href="license.txt">license.txt</a>.</p>
 
 
-<h2>Plugins</h2>
+ >Plugins
     - SEO plugin: Yoast SEO is a search engine optimization (SEO) plug-in for WordPress. The plugin has five million active installations and has been downloaded more than 350 million times.
     - GDPR plugin: The CookieYes GDPR Cookie Consent & Compliance Notice plugin will assist you in making your website GDPR (RGPD, DSVGO) compliant.
     - Multilanguage plugin: Translate WordPress with GTranslate plugin uses Google Translate automatic translation service to translate wordpress site with Google power and make it multilingual.
