@@ -87,6 +87,9 @@
 
 
  >Plugins
+ <br>
     - SEO plugin: Yoast SEO is a search engine optimization (SEO) plug-in for WordPress. The plugin has five million active installations and has been downloaded more than 350 million times.
+    <br>
     - GDPR plugin: The CookieYes GDPR Cookie Consent & Compliance Notice plugin will assist you in making your website GDPR (RGPD, DSVGO) compliant.
+    <br>
     - Multilanguage plugin: Translate WordPress with GTranslate plugin uses Google Translate automatic translation service to translate wordpress site with Google power and make it multilingual.
